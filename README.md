@@ -37,4 +37,3 @@ Run Golden on Android
 
 	react-native run-android
 
-[![button](http://liquidico.com/media/content/ckeditor/2018/02/28/g1_l9SmamB.png)](https://t.me/goldenwallet)
